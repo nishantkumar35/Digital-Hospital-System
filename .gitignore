@@ -1,0 +1,23 @@
+# IDE & Editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build & Dependency Directories
+hospitalManagementSystem/target/
+hospital-management-frontend/node_modules/
+hospital-management-frontend/dist/
+
+# Zip & Archive Files
+*.zip
+*.tar.gz
+*.rar
+
+# Environment files
+.env
+.env.local
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
